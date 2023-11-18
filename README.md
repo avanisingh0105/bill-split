@@ -1,9 +1,10 @@
+## Motive
 As ```splitwise``` has forcefully introduced there daily expense adding limit so here we're, building up this project
 
+## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
+## How to setup dev environment
 First, run the development server:
 
 ```bash
